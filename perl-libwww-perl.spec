@@ -7,7 +7,7 @@
 
 Name:       perl-libwww-perl
 Summary:    A Perl interface to the World-Wide Web
-Version:    5.836
+Version:    5.837
 Release:    1
 Group:      Development/Libraries
 License:    GPL+ or Artistic
