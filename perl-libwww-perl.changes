@@ -1,3 +1,7 @@
+* Mon Aug 19 2019 Niels Breet <niels.breet@jolla.com> - 5.837-2
+- Remove mailcap depencency
+  COntributes to JB#46697
+
 * Fri Oct 26 2012 Vasily Gurevich <vas.gurevich@gmail.com> - 5.837
 - Upgrade to 5.837
   MER#343
